@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 3,
   "latestVersionName": "0.1.2",
-  "apkUrl": "https://antonklimakov.github.io/ai-photo-search/app-release.apk",
+  "apkUrl": "https://github.com/MorkovkAs/ai-photo-search/releases/download/v0.1.2/app-release.apk",
   "changelog": "Photo indexing has been redesigned and moved to a background process. You can now use the app without waiting for indexing to complete. Search functionality will be available immediately after indexing starts."
 }
