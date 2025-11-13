@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "0.2.1",
-  "apkUrl": "https://github.com/MorkovkAs/ai-photo-search/releases/download/v0.2.1/app-release.apk",
-  "changelog": "Photo indexing now runs in the background — you can start using the app right away! Search is available as soon as indexing begins."
+  "latestVersionCode": 7,
+  "latestVersionName": "0.3.0",
+  "apkUrl": "https://github.com/MorkovkAs/ai-photo-search/releases/download/v0.3.0/app-release.apk",
+  "changelog": "Added a notification showing photo indexing progress. The app now detects and lets you re-index newly added photos."
 }
